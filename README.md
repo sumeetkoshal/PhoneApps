@@ -8,7 +8,7 @@
 * $ sudo npm install -g ionic
 
 ### Create the project
-* $ ionic start todo blank
+* $ ionic start <project_name> blank
 
 ### Configure Platforms
 * $ ionic platform add ios
